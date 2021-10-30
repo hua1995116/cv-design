@@ -1,0 +1,12 @@
+[
+  {
+    "text": "组件",
+    "link": "/component/base/common",
+    "activeMatch": "/component/"
+  },
+  {
+    "text": "关于我们",
+    "link": "/about/index",
+    "activeMatch": "/about/"
+  }
+]

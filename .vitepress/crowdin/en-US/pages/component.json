@@ -1,0 +1,71 @@
+{
+  "base": {
+    "text": "基础信息",
+    "children": [
+      {
+        "link": "/base/common",
+        "text": "通用写法"
+      }
+    ]
+  },
+  "frontend": {
+    "text": "前端",
+    "children": [
+      {
+        "link": "/frontend/skill",
+        "text": "个人技能"
+      },
+      {
+        "link": "/frontend/work",
+        "text": "工作经验"
+      },
+      {
+        "link": "/frontend/project",
+        "text": "项目经验"
+      }
+    ]
+  },
+  "backend": {
+    "text": "后端",
+    "children": [
+      {
+        "link": "/backend/skill",
+        "text": "个人技能"
+      },
+      {
+        "link": "/backend/work",
+        "text": "工作经验"
+      },
+      {
+        "link": "/backend/project",
+        "text": "项目经验"
+      }
+    ]
+  },
+  "qa": {
+    "text": "测试",
+    "children": [
+      {
+        "link": "/qa/skill",
+        "text": "个人技能"
+      },
+      {
+        "link": "/qa/work",
+        "text": "工作经验"
+      },
+      {
+        "link": "/qa/project",
+        "text": "项目经验"
+      }
+    ]
+  },
+  "other": {
+    "text": "其他",
+    "children": [
+      {
+        "link": "/js",
+        "text": "基础信息"
+      }
+    ]
+  }
+}

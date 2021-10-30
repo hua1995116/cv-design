@@ -1,0 +1,28 @@
+.vitepress/i18n/*
+.vitepress/crowdin/*
+!.vitepress/crowdin/en-US
+
+temp
+zh-CN
+fr-FR
+es-ES
+ja-JP
+
+# Editor directories and files
+.idea
+
+# Package Manager
+node_modules
+.pnpm-debug.log*
+
+# System
+.DS_Store
+
+# Bundle
+dist
+coverage
+packages/element-plus/version.ts
+
+# local env files
+*.local
+
